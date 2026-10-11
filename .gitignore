@@ -1,0 +1,25 @@
+# Keil temporary and build files
+*.bak
+*.dep
+*.d
+*.o
+*.crf
+*.elf
+*.hex
+*.axf
+*.lst
+*.m51
+*.map
+*.htm
+*.build_log.htm
+*.sfr
+*.lnp
+
+# Keil user GUI and session configuration
+*.uvopt*
+*.uvgui*
+JLinkLog.txt
+
+# Output folders
+Objects/
+Listings/
